@@ -3,8 +3,7 @@
 One-page waitlist for product launches that respect the inbox. One email when something ships. No newsletters, no noise.
 
 ## Live demo
-
-Deployed at: _to be filled in after first Vercel deploy_.
+https://earlybird-omega.vercel.app/
 
 ## Stack
 
